@@ -1,0 +1,2 @@
+# ReactClass2
+Class
